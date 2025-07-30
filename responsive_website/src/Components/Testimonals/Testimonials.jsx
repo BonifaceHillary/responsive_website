@@ -68,7 +68,7 @@ const Testimonials = () => {
                 <img src={pic7} alt="" />
                 <div>
                   <h3>William Jackson2</h3>
-                  <span>Edusity, USA</span>
+                  <span>Edusity, ABJ</span>
                 </div>
               </div>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus fugiat, aliquid sequi nam maiores nostrum itaque in pariatur soluta quod praesentium cumque omnis ipsa perspiciatis</p>
@@ -81,7 +81,7 @@ const Testimonials = () => {
                 <img src={pic8} alt="" />
                 <div>
                   <h3>William Jackson3</h3>
-                  <span>Edusity, USA</span>
+                  <span>Edusity, CRS</span>
                 </div>
               </div>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus fugiat, aliquid sequi nam maiores nostrum itaque in pariatur soluta quod praesentium</p>
@@ -94,7 +94,7 @@ const Testimonials = () => {
                 <img src={pic9} alt="" />
                 <div>
                   <h3>William Jackson4</h3>
-                  <span>Edusity, USA</span>
+                  <span>Edusity, FRA</span>
                 </div>
               </div>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus fugiat, aliquid sequi nam maiores nostrum itaque in pariatur soluta quod praesentium cumque omnis ipsa perspiciatis</p>
