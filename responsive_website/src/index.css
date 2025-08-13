@@ -68,8 +68,6 @@ button:focus-visible {
 } */
 
 
-
-
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
 
@@ -125,7 +123,7 @@ a {
 /* media querry */
 
 @media (max-width: 1200px) {
-  .container{
+  .container {
   padding-left: 5%;
   padding-right: 5%;
  }
