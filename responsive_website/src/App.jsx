@@ -64,7 +64,6 @@ const App = () => {
   const [playState, setPlayState] = useState(false);
 
 
-
   return (
     <div>
       <Navbar />
@@ -72,6 +71,7 @@ const App = () => {
       <Hero />
 
       <div className='container'>
+
         <Title subTitle='Our PROGRAM' title='What We Offer' />
 
       <Programs />
