@@ -8,7 +8,9 @@ import next from '../../assets/next.png'
 import back from '../../assets/back.png'
 
  import pic6 from '../../assets/pic9.jpg'
+
  import pic7 from '../../assets/pic10.jpg'
+ 
  import pic8 from '../../assets/pic11.jpg'
  import pic9 from '../../assets/pic12.jpg'
 
