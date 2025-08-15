@@ -49,7 +49,9 @@ import Title from './Components/Title/Title'
 import About from './Components/About/About'
 
 import Campus from './Components/Campus/Campus'
+
 import Testimonials from './Components/Testimonals/Testimonials'
+
 import Contact from './Components/Contact/Contact'
 import Footer from './Components/Footer/Footer'
 import VideoPlayer from './Components/VideoPlayer/VideoPlayer'
