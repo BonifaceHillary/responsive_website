@@ -10,8 +10,9 @@ import back from '../../assets/back.png'
  import pic6 from '../../assets/pic9.jpg'
 
  import pic7 from '../../assets/pic10.jpg'
- 
+
  import pic8 from '../../assets/pic11.jpg'
+
  import pic9 from '../../assets/pic12.jpg'
 
 
@@ -45,6 +46,7 @@ const Testimonials = () => {
 
   return (
     <div className='testimonials'>
+      
       <img src={next} alt="" className='next-btn' onClick={slideForward} />
 
       <img src={back} alt="" className='back-btn' onClick={slideBackward} />
