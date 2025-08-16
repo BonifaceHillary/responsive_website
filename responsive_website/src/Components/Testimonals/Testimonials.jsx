@@ -59,6 +59,7 @@ const Testimonials = () => {
                 <img src={pic6} alt="" />
                 <div>
                   <h3>William Jackson1</h3>
+
                   <span>Edusity, USA</span>
                 </div>
               </div>
@@ -68,6 +69,7 @@ const Testimonials = () => {
 
            <li>
             <div className="slide">
+              
               <div className="user-info">
                 <img src={pic7} alt="" />
                 <div>
