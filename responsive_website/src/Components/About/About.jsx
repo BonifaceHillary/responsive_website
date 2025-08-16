@@ -2,7 +2,9 @@
 import React from 'react'
 
 import './About.css'
+
 import pic4 from '../../assets/pic4.jpg'
+
  import play  from '../../assets/play-icon.png'
 
 const About = ({setPlayState}) => {
