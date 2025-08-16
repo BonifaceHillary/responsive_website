@@ -42,8 +42,6 @@ const Testimonials = () => {
 
   }
 
-
-
   return (
     <div className='testimonials'>
       
@@ -109,7 +107,6 @@ const Testimonials = () => {
           </li>
         </ul>
       </div>
-      
     </div>
   )
 }
