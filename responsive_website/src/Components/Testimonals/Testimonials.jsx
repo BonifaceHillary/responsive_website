@@ -63,7 +63,7 @@ const Testimonials = () => {
                   <span>Edusity, USA</span>
                 </div>
               </div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus fugiat, aliquid sequi nam maiores nostrum itaque in pariatur soluta quod </p>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus fugiat, aliquid sequi nam maiores nostrum itaque in pariatur soluta quod</p>
             </div>
           </li>
 
@@ -77,7 +77,7 @@ const Testimonials = () => {
                   <span>Edusity, ABJ</span>
                 </div>
               </div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus fugiat, aliquid sequi nam maiores nostrum itaque in pariatur soluta quod praesentium cumque omnis ipsa perspiciatis</p>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus fugiat, aliquid sequi nam maiores nostrum itaque in pariatur soluta quod praesentium cumque omnis ipsa perspiciatis.</p>
             </div>
           </li>
 
@@ -87,7 +87,7 @@ const Testimonials = () => {
                 <img src={pic8} alt="" />
                 <div>
                   <h3>William Jackson3</h3>
-                  
+
                   <span>Edusity, CRS</span>
                 </div>
               </div>
@@ -104,7 +104,7 @@ const Testimonials = () => {
                   <span>Edusity, FRA</span>
                 </div>
               </div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus fugiat, aliquid sequi nam maiores nostrum itaque in pariatur soluta quod praesentium cumque omnis ipsa perspiciatis</p>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus fugiat, aliquid sequi nam maiores nostrum itaque in pariatur soluta quod praesentium cumque omnis ipsa perspiciatis.</p>
             </div>
           </li>
         </ul>
