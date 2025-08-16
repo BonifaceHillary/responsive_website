@@ -1,5 +1,6 @@
 
 import React from 'react'
+
 import './About.css'
 import pic4 from '../../assets/pic4.jpg'
  import play  from '../../assets/play-icon.png'
@@ -13,6 +14,7 @@ const About = ({setPlayState}) => {
        </div>
 
       <div className='about-right'>
+
         <h3>ABOUT UNIVERSITY</h3>
         <h2>Nurturing tomorrow's leaders today!</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates impedit voluptatum ea eius, nemo beatae, exercitationem voluptas iste esse obcaecati sed cumque aut nam quaerat tempore corporis excepturi sequi aperiam?</p>
@@ -22,7 +24,6 @@ const About = ({setPlayState}) => {
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum, rerum ipsa accusamus incidunt perferendis maiores. Labore magni iusto eum, perferendis doloremque delectus necessitatibus eaque minus!</p>
 
       </div>
-      
     </div>
   )
 }
