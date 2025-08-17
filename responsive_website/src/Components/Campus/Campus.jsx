@@ -1,5 +1,6 @@
 
 import React from 'react'
+
 import './Campus.css'
 
 import pic5 from '../../assets/pic5.jpg'
@@ -15,6 +16,7 @@ import pic8 from '../../assets/pic8.jpg'
 const Campus = () => {
   return (
     <div className='campus'>
+      
       <div className="gallery">
         <img src={pic5} alt="" />
 
