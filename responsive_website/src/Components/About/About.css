@@ -52,12 +52,12 @@
 
 /* media query */
 
-@media (max-width: 800px){
+@media (max-width: 800px) {
   .about{
     flex-direction: column;
   }
 
-  .about-left{
+  .about-left {
     flex-basis: 100%;
     margin: 20px;
     order: 2;
