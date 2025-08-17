@@ -1,5 +1,5 @@
 
-.about{
+.about {
   margin: 100px auto;
   display: flex;
   align-items: center;
@@ -12,7 +12,7 @@
   position: relative;
 }
 
-.about-right{
+.about-right {
   flex-basis: 56%;
 }
 
