@@ -16,7 +16,7 @@ import pic8 from '../../assets/pic8.jpg'
 const Campus = () => {
   return (
     <div className='campus'>
-      
+
       <div className="gallery">
         <img src={pic5} alt="" />
 
@@ -27,8 +27,6 @@ const Campus = () => {
         <img src={pic8} alt="" />
 
       </div>
-
-      {/* <button>see mere here</button> */}
 
        <button className='btn'>See more here <img src={arrow} alt="" /></button> 
       
