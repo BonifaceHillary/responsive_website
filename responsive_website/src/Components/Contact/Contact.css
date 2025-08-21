@@ -1,5 +1,5 @@
 
-.contact{
+.contact {
    margin: 80px auto;
    max-width: 90%;
    display: flex;
@@ -7,7 +7,7 @@
    justify-content: space-between;
 }
 
-.contact-col{
+.contact-col {
   flex-basis: 48%;
   color: #676767;
 }
