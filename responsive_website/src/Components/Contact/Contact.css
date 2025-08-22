@@ -44,7 +44,7 @@
   margin-right: 10px;
 }
 
-.contact form input, .contact form textarea{
+.contact form input, .contact form textarea {
   display: block;
   width: 100%;
   background: #EBECFE;
@@ -65,7 +65,7 @@
 /* media query */
 
 @media (max-width: 700px) {
-  .contact{
+  .contact {
     display: block;
   }
 
