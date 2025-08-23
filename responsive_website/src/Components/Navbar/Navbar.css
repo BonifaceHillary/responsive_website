@@ -50,7 +50,7 @@ nav ul li {
 }
 
 @media (max-width:840px) {
-  nav{
+  nav {
     padding: 15px 0;
   }
   nav ul {
@@ -70,7 +70,7 @@ nav ul li {
     margin: 25px 40px;
   }
 
-  .menu{
+  .menu {
     display: block;
     height: 30px;
     width: 30px;
@@ -78,7 +78,7 @@ nav ul li {
     border-radius: 50px;
   }
 
-  .hide-mobile-menu{
+  .hide-mobile-menu {
     right: -200px;
   }
 }
