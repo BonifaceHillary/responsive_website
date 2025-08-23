@@ -1,5 +1,5 @@
 
-nav{
+nav {
   width: 100%;
   /* background: #333; */
   color: #fff;
@@ -13,7 +13,7 @@ nav{
   z-index: 10;
 }
 
-img{
+img {
   height: 100px;
   width: 100px;
 }
