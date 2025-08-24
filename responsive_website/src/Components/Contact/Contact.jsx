@@ -2,6 +2,7 @@
 import React from 'react'
 
 import './Contact.css'
+
 import message from '../../assets/message.png'
 import gmail from '../../assets/gmail.webp'
 import phone from '../../assets/phone.png'
