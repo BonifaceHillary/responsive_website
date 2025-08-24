@@ -8,6 +8,7 @@ import message from '../../assets/message.png'
 import gmail from '../../assets/gmail.webp'
 
 import phone from '../../assets/phone.png'
+
 import location from '../../assets/location.png'
 import whitearrow from '../../assets/whitearrow.png'
 
