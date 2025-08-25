@@ -15,9 +15,6 @@ import whitearrow from '../../assets/whitearrow.png'
 
 const Contact = () => {
 
-
-
-
   const [result, setResult] = React.useState("");
 
   
