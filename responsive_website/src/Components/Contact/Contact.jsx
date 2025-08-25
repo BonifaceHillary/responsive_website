@@ -94,9 +94,6 @@ const Contact = () => {
           <input type="text" name='name' placeholder='Enter Your Name' required />
 
 
-
-
-
           {/* <label>Email Address</label> */}
 {/* <input type="email" name='email' placeholder='Enter Your Email Address' required /> */}
 
