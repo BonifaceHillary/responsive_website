@@ -46,7 +46,6 @@ const Contact = () => {
     }
   }
 
-
   // oncleared
 
   // const onSubmit = async (event) => {
@@ -73,8 +72,6 @@ const Contact = () => {
   //   }
 
   // };
-
-
 
 
 
