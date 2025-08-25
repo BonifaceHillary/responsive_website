@@ -73,9 +73,6 @@ const Contact = () => {
 
   // };
 
-
-
-
   return (
     <div className='contact'>
       <div className="contact-col">
