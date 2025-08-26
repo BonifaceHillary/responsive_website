@@ -99,8 +99,6 @@ const Contact = () => {
 
 
 
-
-
           <label>Phone Number</label>
           <input type="tel" name='phone' placeholder='Enter Your Phone Number' required />
 
