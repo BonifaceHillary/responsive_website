@@ -57,9 +57,8 @@
     flex-direction: column;
   }
 
-  .program{
+  .program {
     flex-basis: 100px;
     margin: 20px;
   }
-  
 }
