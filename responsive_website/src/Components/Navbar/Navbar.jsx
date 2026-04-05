@@ -32,7 +32,7 @@ const Navbar = () => {
         <li><Link to='program' smooth={true} offset={-280} duration={500}>Program</Link></li>
 
 
-        <li><Link to='about' smooth={true} offset={-110} duration={500}>about us</Link></li>
+        <li><Link to='about' smooth={true} offset={-110} duration={500}>About us</Link></li>
 
 
         <li><Link to='campus' smooth={true} offset={-280} duration={500}>Campus</Link></li>
